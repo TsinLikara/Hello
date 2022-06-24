@@ -1,8 +1,25 @@
-if (a == "Sweet_Scheme"){"All hail Sweet_Scheme and her trusty companion Courtney Cupcakes!";}
-else if (a == "RangShada"){"If it isn't the shitlips himself, RangShada!";}
-else if (a == "Plague_and_Harm"){"The world's best doll duo!";}
-else if (a == "ThymeTuber"){"Moooove outta the way, here comes Thyme!";}
-else if (a == "ember_ignis"){"Is it getting hot in here, or is it just Ember Ignis?";}
-else if (a == "Zinfable"){"THE Famous Zinfable has deigned to grace this chat with his presence!";}
-else if (a == "TsinLikara"){"This is a test";}
-else {"Hello! It's nice to have you!";}
+switch (a) {
+  case 'Sweet_Scheme':
+    "All hail Sweet_Scheme and her trusty companion Courtney Cupcakes!";
+    break;
+  case 'RangShada':
+    "If it isn't the shitlips himself, RangShada!";
+    break;
+  case 'Plague_and_Harm':
+    "The world's best doll duo!";
+    break;
+  case 'ThymeTuber':
+    "Moooove outta the way, here comes Thyme!";
+    break;
+  case 'ember_ignis':
+    "Is it getting hot in here, or is it just Ember Ignis?";
+  case 'Zinfable':
+    "THE Famous Zinfable has deigned to grace this chat with his presence!";
+    break;
+  case 'TsinLikara':
+    "This is a test";
+    break;
+  default:
+    "Hello! Thanks for coming out!";
+    break;
+}
