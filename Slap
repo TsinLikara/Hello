@@ -1,1 +1,1 @@
-!addcom !slap $(user) has slapped $(touser) with a $(eval a=["a herring", "a codfish", "a trout", "a salmon", "a dolphin", "a swordfish"]a[Math.floor(Math.random()*a.length)])
+$(user) has slapped $(touser) with a $(eval a=["a herring", "a codfish", "a trout", "a salmon", "a dolphin", "a swordfish"]a[Math.floor(Math.random()*a.length)])
