@@ -1,5 +1,5 @@
 switch (username) {
-  case 'Sweet_Scheme':
+  case 'sweet_scheme':
     "All hail Sweet_Scheme and her trusty companion Courtney Cupcakes!";
     break;
   case 'RangShada':
