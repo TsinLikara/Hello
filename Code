@@ -13,6 +13,7 @@ switch (username) {
     break;
   case 'ember_ignis':
     "Is it getting hot in here, or is it just Ember Ignis?";
+    break;
   case 'Zinfable':
     "THE Famous Zinfable has deigned to grace this chat with his presence!";
     break;
